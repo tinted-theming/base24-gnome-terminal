@@ -1,6 +1,7 @@
 # MIT License
 
 Copyright (c) 2020 Base24
+
 Copyright (c) 2017 Aaron Williamson https://github.com/aaron-williamson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
